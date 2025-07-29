@@ -1,1 +1,1 @@
-# 7B
+En AppDbContext cambiar el connection string.
